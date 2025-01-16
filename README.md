@@ -10,13 +10,13 @@ TO Do: Update Readme later<br>
 
 # <br><br>1) What are the top-paying jobs for ML and Data Analytics Roles?
 
-<br>* Roles such as Data Analyst, Director of Data Analytics, and Research Scientist dominate this list, indicating a high demand for analytics and leadership roles in data-driven industries
+<br> * Roles such as Data Analyst, Director of Data Analytics, and Research Scientist dominate this list, indicating a high demand for analytics and leadership roles in data-driven industries
 >* Senior and Leadership positions dominate the highest salary range ($300,000 and above), particularly those with "Director" or "Head" titles
 
-<br>* The US overwhelmingly leads, offering more than 80% of the highest paying positions, highlighting its dominance in tech and analytic roles
+<br> * The US overwhelmingly leads, offering more than 80% of the highest paying positions, highlighting its dominance in tech and analytic roles
 >* Other countries include India, Germany, France, Taiwan, etc, though with fewer entries and generally lower salaries.
 
-<br>* Many prominent companies also make this list -
+<br> * Many prominent companies also make this list -
 > * Google, Meta, OpenAI, TikTok
 
 <br>![plot](./1_Top_Companies_by_Pay_Graph.png)
