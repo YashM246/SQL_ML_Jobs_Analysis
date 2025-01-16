@@ -29,7 +29,7 @@ TO Do: Update Readme later<br>
 * They are followed by Big Data Tools like Spark, Snowflake, and Oracle which indicate a need of handling and querying large datasets<br>
 
 # <br>3) What are the most in-demand skills for my roles?
-
+<centre>
 | Skills | Count |
 |:---------|:-------:|
 |sql | 96125 |
@@ -42,5 +42,6 @@ TO Do: Update Readme later<br>
 | powerpoint | 13951 |
 | word | 13864 |
 | azure | 13674 |
+</centre>
 
 # <br>4) What are the top skills based on salary?
